@@ -28,7 +28,7 @@ git clone https://github.com/casonova/Coding-Samurai-Task-2.git
 Run the Application: Navigate to the project directory and run the application:
 
 ```bash
-cd Coding-Samurai-Task2-main
+cd Coding-Samurai-Task-2-main
 python main.py
 
 ```    
